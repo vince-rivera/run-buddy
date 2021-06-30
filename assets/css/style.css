@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/*apply stles to <header>*/
+/*apply styles to <header>*/
     header {
         padding: 20px 35px;
         background-color: #39a6b2;
@@ -203,7 +203,7 @@
     .contact h2 {
         color: #fce138;
     }
-/*Ifram Style*/
+/*Iframe Style*/
     .contact-info iframe {
         width: 400px;
         height: 400px;
